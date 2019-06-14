@@ -19,5 +19,11 @@
   "homepage": "https://github.com/zengyy/myui#readme",
   "dependencies": {
     "webpack": "^4.32.0"
+  },
+  "devDependencies": {
+    "css-loader": "^3.0.0",
+    "style-loader": "^0.23.1",
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.10"
   }
 }
